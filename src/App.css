@@ -5,8 +5,9 @@
   scroll-behavior: smooth;
 }
 
+/* variables defined in index.css */
 body {
-  background: var(--gradient-bg);
+  background: var(--gradient-bg); 
 }
 
 a {
